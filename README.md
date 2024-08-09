@@ -1,6 +1,9 @@
-# Servidores de NANI KORE
-
-Cada vez que una temporada de Minecraft llegue a su fin, se hará público su mundo.
+# Directorio de servidores creados para NANI KORE
+## Counter-Strike
+https://github.com/Lukih/cs-hitlermod
+https://github.com/Lukih/cs-hitlermod/tree/legacy
+## Minecraft
+https://github.com/Lukih/mc-nanikraft
 
 # Links
 
